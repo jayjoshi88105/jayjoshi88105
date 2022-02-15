@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Jay Joshi
+- 👀 I’m interested in PHP, Laravel, Magento, AWS, React Js, Anguler Js
+- 🌱 I’m currently Professional Web Developer and security enthusiast
